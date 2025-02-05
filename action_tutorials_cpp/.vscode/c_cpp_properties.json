@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kaunghtethtun/Desktop/Git/Learning_ROS/ros/ws/install/interface_test/include/**",
+        "/home/kaunghtethtun/Desktop/Git/Learning_ROS/ros/ws/install/custom/include/**",
+        "/home/kaunghtethtun/ros/ws/install/interface_test/include/**",
+        "/home/kaunghtethtun/ros/ws/install/custom/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/kaunghtethtun/Desktop/Git/Learning_ROS/ros/ws/src/action_tutorials_cpp/include/**",
+        "/home/kaunghtethtun/Desktop/Git/Learning_ROS/ros/ws/src/begin/include/**",
+        "/home/kaunghtethtun/Desktop/Git/Learning_ROS/ros/ws/src/custom/include/**",
+        "/home/kaunghtethtun/Desktop/Git/Learning_ROS/ros/ws/src/interface_test/include/**",
+        "/home/kaunghtethtun/Desktop/Git/Learning_ROS/ros/ws/src/tf/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
